@@ -40,6 +40,6 @@
   - 个人网站：lixudong.ink
 - 欢迎加入我的AI微信群：贾维斯的小屋，扫码添加微信拉你入群~
 
-<img src="mmqrcode.png" style="zoom: 67%;" />
+<img src="https://github.com/5663015/machine-learning-handbook/mmqrcode.png" style="zoom: 67%;" />
 
-<img src="mm_reward_qrcode.png" style="zoom: 50%;" />
+<img src="https://github.com/5663015/machine-learning-handbook/mm_reward_qrcode.png" style="zoom: 50%;" />
